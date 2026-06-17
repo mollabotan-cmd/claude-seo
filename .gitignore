@@ -161,6 +161,10 @@ youtube-description*.md
 # Release decks + Remotion video work (mirrors claude-ads pattern: in-tree, untracked)
 presentations/
 
+# Video editing workspace (user-supplied source video, extracted frames, audio,
+# and rendered output — private media, large binaries; in-tree, untracked)
+video-edit/
+
 # Internal implementation plans / specs (working notes, not user docs)
 docs/superpowers/
 
